@@ -8,5 +8,8 @@
   "dependencies": {
     "typescript": "^3.9.6"
   },
-  "gitHead": "e5402c1cc7c11e50ea436475c97d937bb7037872"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "942a6de91fc221cf4c10f1f665407ffa68bf35eb"
 }
