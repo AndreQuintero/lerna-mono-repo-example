@@ -2,7 +2,7 @@
   "name": "lerna-mono-repo-example",
   "version": "1.0.0",
   "description": "lerna mono repo example",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*",
     "apps/*"
