@@ -7,5 +7,6 @@
   },
   "dependencies": {
     "typescript": "^3.9.6"
-  }
+  },
+  "gitHead": "30a1cf3fa85723ba5dd015598b5c09d481569caa"
 }
