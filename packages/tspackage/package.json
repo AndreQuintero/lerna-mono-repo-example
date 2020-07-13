@@ -1,5 +1,5 @@
 {
-  "name": "@andreq/tspackage",
+  "name": "@andrequintero/tspackage",
   "main": "src/index.ts",
   "version": "0.0.4",
   "scripts": {
