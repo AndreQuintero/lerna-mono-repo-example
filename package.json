@@ -1,0 +1,18 @@
+{
+  "name": "lerna-mono-repo-example",
+  "version": "1.0.0",
+  "description": "lerna mono repo example",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreQuintero/lerna-mono-repo-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
