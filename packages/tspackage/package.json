@@ -1,0 +1,11 @@
+{
+  "name": "@andreq/tspackage",
+  "main": "src/index.ts",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
